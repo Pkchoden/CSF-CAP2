@@ -1,3 +1,9 @@
+################################
+# Pema Kinzang Choden
+# 1ICE
+# Student ID: 02230220
+################################
+
 import os
 import random
 
